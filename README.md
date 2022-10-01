@@ -1,4 +1,6 @@
-# Laravel
+# Laravel.  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="200" height="200" align="right" />
 
 ## 0. Installation d'un projet Laravel avec macOS
 
